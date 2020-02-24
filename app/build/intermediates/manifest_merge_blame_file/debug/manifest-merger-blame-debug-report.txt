@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.examples.anukool.rxSearch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:7:5-23:19
+14        android:allowBackup="true"
+14-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:8:9-35
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:9:9-43
+17        android:label="@string/app_name"
+17-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:10:9-41
+18        android:supportsRtl="true"
+18-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity
+21-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:13:9-22:20
+22            android:name="com.examples.anukool.rxSearch.MainActivity"
+22-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:14:13-70
+23            android:label="@string/app_name"
+23-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:15:13-45
+24            android:theme="@style/AppTheme.NoActionBar" >
+24-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:16:13-56
+25            <intent-filter>
+25-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:17:13-21:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:18:17-68
+26-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:20:17-76
+28-->C:\ORDOFY_ANDROID_APPday26mjh8\RxJavaSearch\app\src\main\AndroidManifest.xml:20:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <meta-data
+32-->[com.android.support:design:26.1.0] C:\Users\Mrk02\.gradle\caches\transforms-2\files-2.1\dac68a516857c0dceffcfaea2da546b9\design-26.1.0\AndroidManifest.xml:26:9-28:38
+33            android:name="android.support.VERSION"
+33-->[com.android.support:design:26.1.0] C:\Users\Mrk02\.gradle\caches\transforms-2\files-2.1\dac68a516857c0dceffcfaea2da546b9\design-26.1.0\AndroidManifest.xml:27:13-51
+34            android:value="26.1.0" />
+34-->[com.android.support:design:26.1.0] C:\Users\Mrk02\.gradle\caches\transforms-2\files-2.1\dac68a516857c0dceffcfaea2da546b9\design-26.1.0\AndroidManifest.xml:28:13-35
+35        <meta-data
+35-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Mrk02\.gradle\caches\transforms-2\files-2.1\416ac7ff99df242630033f456b5fd2f3\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+36            android:name="android.arch.lifecycle.VERSION"
+36-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Mrk02\.gradle\caches\transforms-2\files-2.1\416ac7ff99df242630033f456b5fd2f3\runtime-1.0.0\AndroidManifest.xml:26:13-58
+37            android:value="27.0.0-SNAPSHOT" />
+37-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Mrk02\.gradle\caches\transforms-2\files-2.1\416ac7ff99df242630033f456b5fd2f3\runtime-1.0.0\AndroidManifest.xml:27:13-44
+38    </application>
+39
+40</manifest>
